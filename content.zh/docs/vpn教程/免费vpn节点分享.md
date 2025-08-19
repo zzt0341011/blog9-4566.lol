@@ -1,24 +1,24 @@
-## Free VPN Node, 2025-8-2
-- The following are network nodes, which can be used by importing the software, completely free.
-- How to import **VPN** software after obtaining VPN nodes
-- Please use the shortcut key ctrl+d to bookmark the URL, because we will update these **VPN** nodes for a long time
-## Recommended Proxy Providers
+## 免费v2rayNG节点，2025年8月2日更新
+### 免费节点、当天测试可用，导入vpn客户端即可使用
+## 机场推荐
 
-| Provider Name                                                              | Price  | Notes                 |
-| -------------------------------------------------------------------------- | ------ | --------------------- |
-| [Lord of the Rings](https://www.mojie.me/#/register?code=BpCuERz0)         | 2 USDT    | 130GB, no time limit  |
-| [Nongfu Spring](https://www.nfsq.us/#/register?code=i1fXTMYk)              | 2 USDT    | 200GB, no time limit  |
-| [Baby Cloud](https://web1.bby011.com/#/register?code=8xTTMr2f)             | 8 USDT    | 600GB, no time limit  |
-| [Mineral Water](https://5ldpe1hbmgj4ryv9.600mlt.cc/register?code=noYz548c) | 1 USDT    | 80GB, no time limit   |
-| [New Google](https://xingoogle0.cc/auth/register?code=in46IT)              | 3 USDT    | 360GB for 6 months    |
-| [Lightning Cat](https://webinv02.sc-aff.cc/auth/register?code=ZqlwT1UL)    | 8 USDT    | 360GB for 1 year      |
-| [Groundhog](https://tuboshu.io/auth/register?code=6ulsZW)                  | 70 USDT   | 5700GB per year       |
-| [Internet Express](https://wjkc66.vip?c=REZUOC)                            | 1 USDT     | 20GB, no time limit   |
-| [Awesome](https://6.66jc.top/#/login?code=sT9kLfc6)                        | 2 USDT    | 200GB, no time limit  |
-| [Five Mao](https://www.freebb.me/#/register?code=HNjWYnFT)                 | 3 USDT    | 1000GB, no time limit |
-| [Direct Connect](https://bnb.lat/buy/3)                                    | 5 USDT | Unlimited for 1 year  |
+| 机场名称 | 价格 | 备注     |
+|------|----------|--------------|
+| [魔戒](https://www.mojie.me/#/register?code=BpCuERz0)    | 15元     | 130G不限时 |
+| [农夫山泉](https://www.nfsq.us/#/register?code=i1fXTMYk)    | 15元     | 200G不限时       |
+| [宝贝云](https://web1.bby011.com/#/register?code=8xTTMr2f)    | 55元     | 600G不限时   |
+| [矿泉水](https://5ldpe1hbmgj4ryv9.600mlt.cc/register?code=noYz548c)    | 10元     | 80G不限时   |
+| [新谷歌](https://xingoogle0.cc/auth/register?code=in46IT)    | 20元     | 360G半年       |
+| [闪电猫](https://webinv02.sc-aff.cc/auth/register?code=ZqlwT1UL)    | 98元     | 1年360G |
+| [土拔鼠](https://tuboshu.io/auth/register?code=6ulsZW)    | 500元     | 1年5700G |
+| [网际快车](https://wjkc66.vip?c=REZUOC)    | 7元     | 20G不限时       |
+| [牛逼](https://6.66jc.top/#/login?code=sT9kLfc6)    | 13元     | 200G不限时       |
+| [五毛](https://www.freebb.me/#/register?code=HNjWYnFT)    | 24元     | 1000G不限时       |
+| [直连](https://bnb.lat/buy/3)    | 5usdt     | 1年不限量       |
 
-* [leeulen60@gmail.com](mailto:leeulen60@gmail.com)
+- leeulen60@gmail.com
+- [如何使用usdt进行付款？](https://v2box.pro/zh/docs/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8v2box/%E4%BD%BF%E7%94%A8%E6%AC%A7%E6%98%93okx%E8%BF%9B%E8%A1%8Cusdt%E4%BB%98%E6%AC%BE%E6%95%99%E7%A8%8B/)
+
 ```
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@49.168.245.58:50000?encryption=none&security=tls&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed%3D2560#%E9%9F%A9%E5%9B%BD%28yudou123.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.59:8880?encryption=none&security=none&sni=kjgx.laoyoutiao.link&type=ws&host=kjgx.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed%3D2560#%E9%A6%99%E6%B8%AF%28yudou123.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
@@ -356,11 +356,10 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.238:8880?encryption=none&
 ```
 * * *
 
-- [Get a free vpn](https://getfreevpn.info/)
-- [Download and use karing](https://getfreevpn.info/docs/How-to-use/Download-and-use-karing/)
-- [Download and use v2box](https://getfreevpn.info/docs/How-to-use/Download-and-use-v2box/)
-- [Download and use stash](https://getfreevpn.info/docs/How-to-use/Download-and-use-stash/)
-- [Download and use v2rayNG](https://getfreevpn.info/docs/How-to-use/Download-and-use-v2rayNG/)
-- [Download and use v2rayn](https://getfreevpn.info/docs/How-to-use/Download-and-use-v2rayn/)
-- [Download and use shadowrocket](https://getfreevpn.info/docs/How-to-use/Download-and-use-shadowrocket/)
-- [Download and use hiddify](https://getfreevpn.info/docs/How-to-use/Download-and-use-hiddify/)
+- [下载并使用Karing VPN软件](https://getfreevpn.info/zh/docs/vpn%E6%95%99%E7%A8%8B/%E4%B8%8B%E8%BD%BD%E5%B9%B6%E4%BD%BF%E7%94%A8Karing-VPN%E8%BD%AF%E4%BB%B6/)
+- [下载并使用v2rayN软件](https://getfreevpn.info/zh/docs/vpn%E6%95%99%E7%A8%8B/%E4%B8%8B%E8%BD%BD%E5%B9%B6%E4%BD%BF%E7%94%A8v2rayN%E8%BD%AF%E4%BB%B6/)
+- [下载和使用v2box vpn](https://getfreevpn.info/zh/docs/vpn%E6%95%99%E7%A8%8B/%E4%B8%8B%E8%BD%BD%E5%92%8C%E4%BD%BF%E7%94%A8v2box-vpn/)
+- [下载和使用v2rayNG VPN](https://getfreevpn.info/zh/docs/vpn%E6%95%99%E7%A8%8B/%E4%B8%8B%E8%BD%BD%E5%92%8C%E4%BD%BF%E7%94%A8v2rayNG-VPN/)
+- [下载和使用 stash VPN](https://getfreevpn.info/zh/docs/vpn%E6%95%99%E7%A8%8B/%E4%B8%8B%E8%BD%BD%E5%92%8C%E4%BD%BF%E7%94%A8-stash-VPN/)
+- [下载和使用shadowrocket VPN](https://getfreevpn.info/zh/docs/vpn%E6%95%99%E7%A8%8B/%E4%B8%8B%E8%BD%BD%E5%92%8C%E4%BD%BF%E7%94%A8shadowrocket-VPN/)
+- [下载和使用hiddify vpn](https://getfreevpn.info/zh/docs/vpn%E6%95%99%E7%A8%8B/%E4%B8%8B%E8%BD%BD%E5%92%8C%E4%BD%BF%E7%94%A8hiddify-vpn/)
