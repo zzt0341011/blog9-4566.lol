@@ -1,0 +1,51 @@
+baseURL = 'https://4566.lol/'
+languageCode = 'zh-cn'
+title = '再来一瓶'
+theme='hugo-book'
+
+# Book configuration
+disablePathToLower = true
+enableGitInfo = true
+
+# Needed for mermaid/katex shortcodes
+[markup]
+[markup.goldmark.renderer]
+  unsafe = true
+
+[markup.tableOfContents]
+  startLevel = 1
+
+[languages]
+[languages.zh]
+  languageName = 'Chinese'
+  contentDir = 'content.zh'
+  weight = 1
+
+[languages.en]
+  languageName = 'English'
+  contentDir = 'content.en'
+  weight = 3
+
+[languages.ru]
+  languageName = 'Russian'
+  contentDir = 'content.ru'
+  weight = 2
+
+
+
+[menu]
+# [[menu.before]]
+[[menu.after]]
+  name = "15元1000G不限时"
+  url = "https://xn--mes995ajya725k.xyz/#/register?code=xFHkxqZv"
+  weight = 20
+[params]
+# 黑暗模式
+  BookTheme = 'dark'
+# 留言板
+  BookComments = true
+# 翻译
+  BookTranslatedOnly = true
+
+
+
