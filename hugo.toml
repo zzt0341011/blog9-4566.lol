@@ -1,4 +1,5 @@
 baseURL = 'https://4566.lol/'
+defaultContentLanguage = 'zh'
 languageCode = 'zh-cn'
 title = '再来一瓶'
 theme='hugo-book'
