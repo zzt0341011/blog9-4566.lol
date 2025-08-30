@@ -7,6 +7,7 @@ type: docs
 
 | 机场名称 | 价格 | 备注     |
 |------|----------|--------------|
+| [智链](https://xinzhilian.xyz/register?code=Hlh49wb3)    | 35元    | 150G不限时       |
 | [白羊](https://baiyangxing.com/#/register?code=oeFdEriF)    | 88元    | 100G不限时       |
 | [flybit](https://flybit.vip/#/register?code=KJiq4vYM)    | 28元    | 100G不限时       |
 | [农夫山泉](https://www.nfsq.us/#/register?code=i1fXTMYk)    | 15元    | 200G不限时       |
@@ -28,3 +29,6 @@ type: docs
 | [赔钱](https://xn--mes358aby2apfg.com/register?code=OufF6cCL)| 19元   | 1000G不限时   |
 | [一元](https://xn--4gq62f52gdss.ink/#/register?code=neolm7FH)| 12元  | 50G    |
 | [直连](https://bnb.lat/buy/3)    | 5usdt     | 1年不限量       |
+
+
+https://xinzhilian.xyz/register?code=Hlh49wb3
