@@ -7,6 +7,7 @@ type: docs
 
 | 机场名称 | 价格 | 备注     |
 |------|----------|--------------|
+| [奈云](https://www.v2ny.me?path=register&code=05XjPGu5)    | 98元    | 150G不限时       |
 | [智链](https://xinzhilian.xyz/register?code=Hlh49wb3)    | 35元    | 150G不限时       |
 | [白羊](https://baiyangxing.com/#/register?code=oeFdEriF)    | 88元    | 100G不限时       |
 | [flybit](https://flybit.vip/#/register?code=KJiq4vYM)    | 28元    | 100G不限时       |
