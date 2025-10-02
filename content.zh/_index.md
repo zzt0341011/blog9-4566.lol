@@ -16,7 +16,7 @@ type: docs
 | [速达](https://mala.sudatech.store/register?code=3DYnOBtE)    | 15元   | 100G不限时       |
 | [魔戒](https://mojie.ws/#/register?code=BpCuERz0)    | 15元     | 130G不限时 |
 | [星轨](https://bd.srcloud.art/#/register?code=fvyGkr5j)    | 12元     | 60G不限时       |
-| [矿泉水](https://5ldpe1hbmgj4ryv9.600mlt.cc/register?code=noYz548c) | 10元 | 80G不限时   |
+| [矿泉水](https://a9.600mlt.cc/#/register?code=YrXSBbsT) | 10元 | 80G不限时   |
 | [ofopp](https://kk.ofopp.net/#/register?code=A2UmuXR8)    | 38元     | 100G不限时       |
 | [皮卡丘](https://pkhub.net/#/register?code=A6O9EIj0)    | 37元     | 200G不限时      |
 | [网际快车](https://wjkc66.vip?c=REZUOC)    | 7元     | 20G不限时     |
