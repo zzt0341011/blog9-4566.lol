@@ -1,7 +1,7 @@
 ---
 weight: 1
 bookFlatSection: true
-title: "2025十大纯流量机场推荐"
+title: "2025纯流量机场推荐"
 comments: true
 ---
 
@@ -119,7 +119,7 @@ comments: true
 - 服务器数量：53
 - 地区：香港、新加坡、日本、台湾、韩国、美国、英国、巴西、泰国、印尼、柬埔寨、马来西亚、缅甸、匈牙利、挪威、俄罗斯、越南、加拿大、印度、西班牙、澳大利亚、德国、菲律宾、哈萨克斯坦、多哥、立陶宛、土耳其、丹麦、伊拉克、埃及、奥地利、尼日利亚、法国、冰岛
 - 节点类型：vmss
-- 官方网站：[https://6.66jc.top/](6.66jc.top/#/login?code=sT9kLfc6)
+- 官方网站：[https://6.66jc.top/](https://6.66jc.top/#/login?code=sT9kLfc6)
 - 价格：13元200G，34元/2000G，24元/年/月200G
 - 测试视频
 
@@ -136,7 +136,7 @@ comments: true
 - 服务器数量：53
 - 地区：香港、新加坡、日本、台湾、韩国、美国、曼谷、拉斯维加斯、凤凰城、纽约、加拿大、德国
 - 节点类型：shadowsocks
-- 官方网站：[https://6666b.idsduf.com/](6666b.idsduf.com/#/login?code=sT9kLfc6)
+- 官方网站：[https://6666b.idsduf.com/](https://6666b.idsduf.com/#/login?code=sT9kLfc6)
 - 价格：50元500G，88元/1680G
 - 测试视频
 
@@ -189,7 +189,7 @@ comments: true
 - 服务器数量：38
 - 地区：香港、台湾、新加坡、日本、美国
 - 节点类型：vless、Hysteria2
-- 官方网站：[https://feiniaoyun.xyz/](https://feiniaoyun.xyz/#/register?code=GpIqYOb5)
+- 官方网站：[https://feiniaoyun.xyz/](https://x2.344222.cc/#/register?code=GpIqYOb5)
 - 价格：10元/200G，20元/600G，40元/1200G
 - 测试视频
 
