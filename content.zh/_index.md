@@ -37,7 +37,7 @@ comments: true
 | [五毛](https://www.freebb.me/#/register?code=HNjWYnFT) | 24元 | 1000G | 20个 |
 | [良心云](https://www.freebb.me/#/register?code=HNjWYnFT) | 21元 | 1000G | 30个 |
 | [一分](https://xn--4gqx1hgtfdmt.com/#/register?code=Aqr3awfK) | 20元 | 1000G | 30个 |
-| [星链](https://xn--4gqx1hgtfdmt.com/#/register?code=Aqr3awfK) | 15元 | 1000G | 40个 |
+| [星链](https://xn--mes995ajya725k.xyz/#/register?code=xFHkxqZv) | 15元 | 1000G | 40个 |
 
 
 ## 机场推荐--按时间收费-价格表
