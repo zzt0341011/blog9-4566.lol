@@ -25,7 +25,7 @@ comments: true
 | [飞兔](https://www.xn--9kq10e0y7h.site/index.html?register=TtwX5VXt) | 30元 | 100G | 80个 |
 | [柠檬宝](https://wws.xn--pbt38zg4v.com/#/register?code=Aj0fMPaX) | 30元 | 200G | 32个 |
 | [天空云](https://panel.skycloud.lol/zh/auth/signup?referrer=vabYvG65) | 30元 | 256G | 40个 |
-| [智链](https://xinzhilian.xyz/register?code=Hlh49wb3) | 35元 | 15G | 55个 |
+| [智链](https://xinzhilian.xyz/register?code=Hlh49wb3) | 35元 | 150G | 55个 |
 | [anyway](https://www.anyway.best/#/register?code=0gfsYasj) | 48元 | 600G | 28个 |
 | [自由猫](https://us.freecat.cc/register?code=czdF7PXY) | 50元 | 500G | 90个 |
 | [宝贝云](https://web1.bby011.com/#/register?code=8xTTMr2f) | 55元 | 600G | 64个 |
