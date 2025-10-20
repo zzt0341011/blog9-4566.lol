@@ -11,9 +11,10 @@ comments: true
 
 | 名 称 | 价 格 | 流 量 | 节点数 |
 | :--- | :--- | :--- | :--- |
-| [魔戒](https://mojie.co/register?aff=BpCuERz0) | 1元 | 2G | 48个 |
+| [魔戒](https://mojie.xn--yrs494l.com/register?aff=BpCuERz0) | 1元 | 2G | 48个 |
 | [皮卡丘](https://pkhub.net/#/register?code=A6O9EIj0) | 4.5元 | 10G | 42个 |
 | [网际快车](https://wjkc66.vip?c=REZUOC) | 7元 | 20G | 54个 |
+| [光速](https://www.gscloud.sbs/#/register?code=5xbpe5wB) | 8元 | 100G | 42个 |
 | [顶级机场](https://xn--mes358a9urctx.com/#/register?code=bnWsDzhG) | 12元 | 200G | 31个 |
 | [牛逼](https://6666b.idsduf.com/#/login?code=sT9kLfc6) | 13元 | 200G | 41个 |
 | [农夫山泉](https://07.nfsq.us/#/register?code=i1fXTMYk)    | 15元   | 200G |32个|
@@ -25,7 +26,7 @@ comments: true
 | [飞兔](https://www.xn--9kq10e0y7h.site/index.html?register=TtwX5VXt) | 30元 | 100G | 80个 |
 | [柠檬宝](https://wws.xn--pbt38zg4v.com/#/register?code=Aj0fMPaX) | 30元 | 200G | 32个 |
 | [天空云](https://panel.skycloud.lol/zh/auth/signup?referrer=vabYvG65) | 30元 | 256G | 40个 |
-| [智链](https://xinzhilian.xyz/register?code=Hlh49wb3) | 35元 | 150G | 55个 |
+| [智链](https://xinzhilian.xyz/register?code=Hlh49wb3) | 35元 | 15G | 55个 |
 | [anyway](https://www.anyway.best/#/register?code=0gfsYasj) | 48元 | 600G | 28个 |
 | [自由猫](https://us.freecat.cc/register?code=czdF7PXY) | 50元 | 500G | 90个 |
 | [宝贝云](https://web1.bby011.com/#/register?code=8xTTMr2f) | 55元 | 600G | 64个 |
