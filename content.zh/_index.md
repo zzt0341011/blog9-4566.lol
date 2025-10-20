@@ -36,7 +36,7 @@ comments: true
 | [千速猫](https://tmsreta.top/#/register?code=mmgD0jY7) | 68元 | 512G | 46个 |
 | [奈云](https://www.v2ny.me?path=register&code=05XjPGu5) | 98元 | 280G | 140个 |
 | [五毛](https://www.freebb.me/#/register?code=HNjWYnFT) | 24元 | 1000G | 20个 |
-| [良心云](https://www.freebb.me/#/register?code=HNjWYnFT) | 21元 | 1000G | 30个 |
+| [良心云](https://xn--9kqz23b19z.com/#/register?code=5gGILcdl) | 21元 | 1000G | 30个 |
 | [一分](https://xn--4gqx1hgtfdmt.com/#/register?code=Aqr3awfK) | 20元 | 1000G | 30个 |
 | [星链](https://xn--mes995ajya725k.xyz/#/register?code=xFHkxqZv) | 15元 | 1000G | 40个 |
 
