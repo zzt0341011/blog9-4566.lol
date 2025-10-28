@@ -1,98 +1,60 @@
 ---
-title: shadowrocket下载安装和使用教程
+title: 2025年不限制时间机场推荐，纯流量噢
 type: docs
+comments: true
 ---
-
-# Shadowrocket 介绍
-
-[Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118) 是一款功能强大的 iOS 网络工具应用,主要用于代理和 VPN 连接管理。
-
-![shadowrocket小火箭-11002.jpg](https://shadowrocket.ink/img/shadowrocket小火箭-11001.jpg)
-## 主要功能
-
-- 支持多种代理协议,包括 Shadowsocks、VMess、Trojan、SOCKS5、HTTP(S) 等
-- 可以配置和管理多个代理服务器
-- 支持订阅链接,方便批量导入和更新服务器配置
-- 支持规则分流,可以根据域名、IP 地址等条件智能选择代理
-- 支持深色模式
-- 可以查看连接日志和统计信息
-- 访问受地理限制的内容
-- 增强网络隐私和安全性
-- **付费应用**:Shadowrocket 是付费应用,需要在 App Store 购买
-- **仅限 iOS**:目前只支持 iPhone 和 iPad 设备
-- **需要服务器**:使用前需要有可用的代理服务器配置
-- **合规使用**:请确保在当地法律法规允许的范围内使用
-
-## 购买和下载
-
-下载shadowrocket小火箭就是为了进行代理上网，一般会购买机场，而很多机场会提供海外苹果id，让用户下载shadowrocket小火箭更加方便，因为，不用单独购买国外ID，只要购买一个机场，所有的问题就解决了。
-
-购买网址：[点击进入宝贝云](https://web1.bby011.com/#/register?code=8xTTMr2f)
-
-1、用邮箱注册账号
+## 机场推荐--纯流量不限时间-价格表
 
 
+* 以下机场按照流量付费，网站里有软件的使用和安装教程
+* 购买流量以后，不限制时间，流量用完为止
 
-![shadowrocket-1001.jpg](https://shadowrocket.4566.lol/img/shadowrocket-1009.jpg)
-
-
-2、注册完成以后，点击左上角，购买订阅
-
-- 使用支付宝、微信或者加密货币进行付款
-
-
-![shadowrocket小火箭-11002.jpg](https://shadowrocket.ink/img/baobei10001.jpg)
-
-3、购买完以后，点击使用文档，里面有各个客户端的使用说明，有商家提供的海外shadowrocket小火箭临时账号。
-
-![shadowrocket小火箭-11002.jpg](https://shadowrocket.ink/img/shadowrocket小火箭-11004.jpg)
-
-4、打开以后，找到自己的系统，比如苹果手机
-
-![shadowrocket小火箭-11002.jpg](https://shadowrocket.ink/img/shadowrocket小火箭-11005.jpg)
-
-5、订阅成功以后，才能看到商家提供的海外苹果id
-
-![shadowrocket小火箭-11002.jpg](https://shadowrocket.ink/img/shadowrocket小火箭-11006.jpg)
-
-5、获取苹果id以后，就可以登录appstore,然后就可以下载shadowrocket小火箭了。
-
-- 按照图片上的步骤，下载shadowrocket
-
-![shadowrocket11002.jpg](https://shadowrocket.ink/img/shadowrocket11002.jpg)
-
-## shadowrocket导入订阅
-
-1、点击仪表盘，点击一件订阅，点击复制
-
-![shadowrocket-1001.jpg](https://shadowrocket.4566.lol/img/shadowrocket-1001.jpg)
-
-2、打开shadowrocket，点击添加节点，选择类型
-
-![shadowrocket-1001.jpg](https://shadowrocket.4566.lol/img/shadowrocket-1002.jpg)
-
-3、点击类型以后，选择subscribe
-
-![shadowrocket-1001.jpg](https://shadowrocket.4566.lol/img/shadowrocket-1003.jpg)
-
-4、找到url，将复制的url地址，粘贴进去，点击保存
-
-![shadowrocket-1001.jpg](https://shadowrocket.4566.lol/img/shadowrocket-10014jpg)
-
-5、可以看到软件中，出现了很多节点，此时，就可以使用了
-
-![shadowrocket-1001.jpg](https://shadowrocket.4566.lol/img/shadowrocket-1005.jpg)
-
-6、选择其中一个节点，点击右上角按钮，即可开启代理
-
-![shadowrocket-1001.jpg](https://shadowrocket.4566.lol/img/shadowrocket-1006.jpg)
-
-7、第一次使用，会弹出安装vpn提示，选择好，然后点击允许
+| 名 称 | 价 格 | 流 量 | 节点数 |
+| :--- | :--- | :--- | :--- |
+| [魔戒](https://mojie.xn--yrs494l.com/register?aff=BpCuERz0) | 1元 | 2G | 48个 |
+| [皮卡丘](https://pkhub.net/#/register?code=A6O9EIj0) | 4.5元 | 10G | 42个 |
+| [网际快车](https://wjkc66.vip?c=REZUOC) | 7元 | 20G | 54个 |
+| [光速](https://www.gscloud.sbs/#/register?code=5xbpe5wB) | 15元 | 500G | 42个 |
+| [顶级机场](https://xn--mes358a9urctx.com/#/register?code=bnWsDzhG) | 12元 | 200G | 31个 |
+| [牛逼](https://6666b.idsduf.com/#/login?code=sT9kLfc6) | 13元 | 200G | 41个 |
+| [农夫山泉](https://07.nfsq.us/#/register?code=i1fXTMYk)    | 15元   | 200G |32个|
+| [鱼鱼](https://user.yujc.me/#/register?code=KGczjDAW) | 20元 | 100G | 35个 |
+| [樱桃](https://www.yingtaowangluo.com/#/register?code=5OCI2zJA) | 20元 | 100G | 55个 |
+| [sakuracat](https://sakura-cat1.com/register?code=yGbwRcoi) | 20元 | 100G | 50个 |
+| [cherry](https://www.yingtaowangluo.com/#/register?code=5OCI2zJA) | 20元 | 100G | 40个 |
+| [极风云](https://fast.xn--osv801i.com/#/register?code=wwzb4LPU) | 20元 | 200G | 35个 |
+| [飞兔](https://www.xn--9kq10e0y7h.site/index.html?register=TtwX5VXt) | 30元 | 100G | 80个 |
+| [柠檬宝](https://wws.xn--pbt38zg4v.com/#/register?code=Aj0fMPaX) | 30元 | 200G | 32个 |
+| [天空云](https://panel.skycloud.lol/zh/auth/signup?referrer=vabYvG65) | 30元 | 256G | 40个 |
+| [智链](https://xinzhilian.xyz/register?code=Hlh49wb3) | 35元 | 15G | 55个 |
+| [anyway](https://www.anyway.best/#/register?code=0gfsYasj) | 48元 | 600G | 28个 |
+| [自由猫](https://us.freecat.cc/register?code=czdF7PXY) | 50元 | 500G | 90个 |
+| [宝贝云](https://web1.bby011.com/#/register?code=8xTTMr2f) | 55元 | 600G | 64个 |
+| [ofopp](https://kk.ofopp.net/#/register?code=A2UmuXR8) | 40元 | 100G | 70个 |
+| [飞鸟云](https://feiniaoyun.xyz/#/register?code=5CM0aNrb) | 50元 | 500G | 60个 |
+| [矿泉水](https://a9.600mlt.cc/#/register?code=pSnvLvyA) | 70元 | 600G | 44个 |
+| [千速猫](https://tmsreta.top/#/register?code=mmgD0jY7) | 68元 | 512G | 46个 |
+| [奈云](https://www.v2ny.me?path=register&code=05XjPGu5) | 98元 | 280G | 140个 |
+| [五毛](https://www.freebb.me/#/register?code=HNjWYnFT) | 24元 | 1000G | 20个 |
+| [良心云](https://xn--9kqz23b19z.com/#/register?code=5gGILcdl) | 21元 | 1000G | 30个 |
+| [一分](https://xn--4gqx1hgtfdmt.com/#/register?code=Aqr3awfK) | 20元 | 1000G | 30个 |
 
 
-![shadowrocket-1001.jpg](https://shadowrocket.4566.lol/img/shadowrocket-1007.jpg)
+## 机场推荐--按时间收费-价格表
 
 
-![shadowrocket-1001.jpg](https://shadowrocket.4566.lol/img/shadowrocket-1008.jpg)
+* 以下机场按照时间付费，比如：1年12元，每月500G流量
+* 购买流量以后，到期以后流量清零
+* 适合需要大流量的朋友
 
-8、此时shadowrocket已经启动了，试试打开[chatgpt](https://chatgpt.com)
+| 名 称 | 价 格 | 每月流量 | 
+| :--- | :--- | :--- |
+| [KTM](https://ktmcloud.vip/#/register?code=vSw36OQA) | 1元/月 | 2G |
+| [nano](https://edu.360buyimg.men/auth/register?code=3l8NUeOF) | 1元/月 | 100G |
+| [一元](https://xn--4gq62f52gdss.ink/#/register?code=neolm7FH) | 12元/年 | 500G |
+| [顶级机场](https://xn--mes358a9urctx.com/#/register?code=bnWsDzhG) | 15元/年 | 200G |
+| [流量光](https://llg01.com/#/register?code=fJ1OIwq5) | 20元/年 | 60G |
+
+
+
+- leeulen60@gmail.com
