@@ -2,33 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://4566.lol/docs/VPN-Recommendation/</loc>
-  </url><url>
-    <loc>http://4566.lol/docs/VPN-Recommendation/%E6%8C%89%E6%9C%88%E6%94%B6%E8%B4%B9/</loc>
-  </url><url>
-    <loc>http://4566.lol/docs/VPN-Recommendation/%E6%8C%89%E6%B5%81%E9%87%8F%E6%94%B6%E8%B4%B9/</loc>
-  </url><url>
-    <loc>http://4566.lol/docs/VPN-Recommendation/hidden/</loc>
-  </url><url>
-    <loc>http://4566.lol/docs/VPN-Recommendation/%E6%8C%89%E6%B5%81%E9%87%8F%E6%94%B6%E8%B4%B9/3rd-level/</loc>
-  </url><url>
-    <loc>http://4566.lol/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://4566.lol/zh/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="http://4566.lol/ru/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://4566.lol/"
-                />
-  </url><url>
     <loc>http://4566.lol/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -44,23 +17,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://4566.lol/categories/"
-                />
-  </url><url>
-    <loc>http://4566.lol/docs/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://4566.lol/zh/docs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="http://4566.lol/ru/docs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://4566.lol/docs/"
                 />
   </url><url>
     <loc>http://4566.lol/tags/</loc>
@@ -80,8 +36,21 @@
                 href="http://4566.lol/tags/"
                 />
   </url><url>
-    <loc>http://4566.lol/docs/VPN-Recommendation/%E6%8C%89%E6%9C%88%E6%94%B6%E8%B4%B9/3rd-level2/</loc>
-  </url><url>
-    <loc>http://4566.lol/docs/VPN-Recommendation/%E6%8C%89%E6%9C%88%E6%94%B6%E8%B4%B9/3rd-level/</loc>
+    <loc>http://4566.lol/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://4566.lol/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://4566.lol/ru/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://4566.lol/"
+                />
   </url>
 </urlset>
