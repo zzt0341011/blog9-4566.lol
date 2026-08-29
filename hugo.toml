@@ -1,52 +1,43 @@
-baseURL = 'https://4566.lol/'
-defaultContentLanguage = 'zh'
-languageCode = 'zh-cn'
-title = '4566.lol'
-theme='hugo-book'
+baseURL = "http://4566.lol/"
+languageCode = "zh-CN"
+title = "网址导航"
+theme = "hugo-webstack"
 
-# Book configuration
+#true:允许大写字母url路径，false:将url路径转换成小写
 disablePathToLower = true
-enableGitInfo = true
 
-# Needed for mermaid/katex shortcodes
-[markup]
-[markup.goldmark.renderer]
-  unsafe = true
+#页脚：作者名字
+copyright = "oulh"
 
-[markup.tableOfContents]
-  startLevel = 1
-
-[languages]
-[languages.zh]
-  languageName = 'Chinese'
-  contentDir = 'content.zh'
-  weight = 1
-
-[languages.en]
-  languageName = 'English'
-  contentDir = 'content.en'
-  weight = 3
-
-[languages.ru]
-  languageName = 'Russian'
-  contentDir = 'content.ru'
-  weight = 2
-
-
-
-[menu]
-# [[menu.before]]
-[[menu.after]]
-  name = "8元200G不限时"
-  url = "https://jsjc.cfd/#/register?code=w7rsHzIL"
-  weight = 20
+#网站信息，不显示，仅供搜索引擎参考
 [params]
-# 黑暗模式
-  BookTheme = 'dark'
-# 留言板
-  BookComments = true
-# 翻译
-  BookTranslatedOnly = true
+  keywords = "网址导航,webstack,hugo"
+  description = "Webstack Hugo版主题,网址导航"
 
+#是否开启搜索栏，true开启，false关闭
+[params.search]
+  enable = true
 
+#设置默认模式，true暗色模式，false亮色模式
+[params.darkmode]
+  enable = false
 
+#主页菜单栏显示在线编辑按钮（编辑github文件，适用于自动化部署的情况）
+[params.edit]
+  # true显示按钮，false不显示
+  enable = true
+  # github文件的远程链接，改成自己的
+  url = "https://github.com/oulh/nav/blob/main/data/webstack.yml"
+  
+#桌面端右上角code按钮
+[params.github]
+  enable = true #true显示 false隐藏
+  url = "https://github.com/oulh/nav"
+  
+[permalinks]  
+  404 = "/404.html"
+
+#是否对本地搜索功能开启拼音匹配，true开启，false禁止。
+#拼音库体积337k，支持首字母匹配
+[params.pinyin]
+  enable = true
