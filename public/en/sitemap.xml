@@ -2,86 +2,86 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/docs/VPN-Recommendation/</loc>
+    <loc>http://4566.lol/docs/VPN-Recommendation/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/VPN-Recommendation/%E6%8C%89%E6%9C%88%E6%94%B6%E8%B4%B9/</loc>
+    <loc>http://4566.lol/docs/VPN-Recommendation/%E6%8C%89%E6%9C%88%E6%94%B6%E8%B4%B9/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/VPN-Recommendation/%E6%8C%89%E6%B5%81%E9%87%8F%E6%94%B6%E8%B4%B9/</loc>
+    <loc>http://4566.lol/docs/VPN-Recommendation/%E6%8C%89%E6%B5%81%E9%87%8F%E6%94%B6%E8%B4%B9/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/VPN-Recommendation/hidden/</loc>
+    <loc>http://4566.lol/docs/VPN-Recommendation/hidden/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/VPN-Recommendation/%E6%8C%89%E6%B5%81%E9%87%8F%E6%94%B6%E8%B4%B9/3rd-level/</loc>
+    <loc>http://4566.lol/docs/VPN-Recommendation/%E6%8C%89%E6%B5%81%E9%87%8F%E6%94%B6%E8%B4%B9/3rd-level/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://4566.lol/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:1313/zh/"
+                href="http://4566.lol/zh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:1313/ru/"
+                href="http://4566.lol/ru/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="http://4566.lol/"
                 />
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://4566.lol/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:1313/zh/categories/"
+                href="http://4566.lol/zh/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:1313/ru/categories/"
+                href="http://4566.lol/ru/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/"
+                href="http://4566.lol/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/docs/</loc>
+    <loc>http://4566.lol/docs/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:1313/zh/docs/"
+                href="http://4566.lol/zh/docs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:1313/ru/docs/"
+                href="http://4566.lol/ru/docs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/docs/"
+                href="http://4566.lol/docs/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://4566.lol/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:1313/zh/tags/"
+                href="http://4566.lol/zh/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:1313/ru/tags/"
+                href="http://4566.lol/ru/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/"
+                href="http://4566.lol/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/docs/VPN-Recommendation/%E6%8C%89%E6%9C%88%E6%94%B6%E8%B4%B9/3rd-level2/</loc>
+    <loc>http://4566.lol/docs/VPN-Recommendation/%E6%8C%89%E6%9C%88%E6%94%B6%E8%B4%B9/3rd-level2/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/VPN-Recommendation/%E6%8C%89%E6%9C%88%E6%94%B6%E8%B4%B9/3rd-level/</loc>
+    <loc>http://4566.lol/docs/VPN-Recommendation/%E6%8C%89%E6%9C%88%E6%94%B6%E8%B4%B9/3rd-level/</loc>
   </url>
 </urlset>
