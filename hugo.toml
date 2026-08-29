@@ -3,41 +3,94 @@ languageCode = "zh-CN"
 title = "网址导航"
 theme = "hugo-webstack"
 
-#true:允许大写字母url路径，false:将url路径转换成小写
+# true：允许大写字母 URL 路径
+# false：将 URL 路径转换成小写
 disablePathToLower = true
 
-#页脚：作者名字
-copyright = "oulh"
+# 页脚作者
+copyright = "4566.lol"
 
-#网站信息，不显示，仅供搜索引擎参考
+# 网站信息，仅供搜索引擎参考
 [params]
-  keywords = "网址导航,webstack,hugo"
-  description = "Webstack Hugo版主题,网址导航"
+  keywords = "网址导航, WebStack, Hugo, AI, VPS, 软件, 在线工具"
+  description = "一个简洁实用的网址导航网站，收录 AI、VPS、软件、在线工具等优质网站"
 
-#是否开启搜索栏，true开启，false关闭
+# 目录
+[markup.tableOfContents]
+  startLevel = 1
+
+# =========================
+# 多语言
+# =========================
+
+[languages]
+
+[languages.zh]
+  languageName = "中文"
+  contentDir = "content.zh"
+  weight = 1
+
+[languages.en]
+  languageName = "English"
+  contentDir = "content.en"
+  weight = 2
+
+[languages.ru]
+  languageName = "Русский"
+  contentDir = "content.ru"
+  weight = 3
+
+# =========================
+# 搜索
+# =========================
+
 [params.search]
   enable = true
 
-#设置默认模式，true暗色模式，false亮色模式
+# =========================
+# 暗色模式
+# =========================
+
 [params.darkmode]
   enable = false
 
-#主页菜单栏显示在线编辑按钮（编辑github文件，适用于自动化部署的情况）
-[params.edit]
-  # true显示按钮，false不显示
-  enable = true
-  # github文件的远程链接，改成自己的
-  url = "https://github.com/oulh/nav/blob/main/data/webstack.yml"
-  
-#桌面端右上角code按钮
-[params.github]
-  enable = true #true显示 false隐藏
-  url = "https://github.com/oulh/nav"
-  
-[permalinks]  
-  404 = "/404.html"
+# =========================
+# 拼音搜索
+# =========================
 
-#是否对本地搜索功能开启拼音匹配，true开启，false禁止。
-#拼音库体积337k，支持首字母匹配
 [params.pinyin]
   enable = true
+
+# =========================
+# GitHub 在线编辑
+# =========================
+
+[params.edit]
+  enable = true
+  url = "https://github.com/zzt0341011/blog9-4566.lol/blob/main/data/webstack.yml"
+
+# =========================
+# GitHub 按钮
+# =========================
+
+[params.github]
+  enable = true
+  url = "https://github.com/zzt0341011/blog9-4566.lol"
+
+# =========================
+# 404
+# =========================
+
+[permalinks]
+  404 = "/404.html"
+
+# =========================
+# 顶部/底部菜单
+# =========================
+
+[menu]
+
+[[menu.after]]
+  name = "7元20G不限时"
+  url = "https://快车.com?c=REZUOC"
+  weight = 20
