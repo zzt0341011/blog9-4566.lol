@@ -65,17 +65,17 @@ copyright = "4566.lol"
 # GitHub 在线编辑
 # =========================
 
-[params.edit]
-  enable = true
-  url = "https://github.com/zzt0341011/blog9-4566.lol/blob/main/data/webstack.yml"
+#[params.edit]
+#  enable = true
+#  url = "https://github.com/zzt0341011/blog9-4566.lol/blob/main/data/webstack.yml"
 
 # =========================
 # GitHub 按钮
 # =========================
 
-[params.github]
-  enable = true
-  url = "https://github.com/zzt0341011/blog9-4566.lol"
+#[params.github]
+#  enable = true
+#  url = "https://github.com/zzt0341011/blog9-4566.lol"
 
 # =========================
 # 404
@@ -88,9 +88,9 @@ copyright = "4566.lol"
 # 顶部/底部菜单
 # =========================
 
-[menu]
+#[menu]
 
-[[menu.after]]
-  name = "7元20G不限时"
-  url = "https://快车.com?c=REZUOC"
-  weight = 20
+#[[menu.after]]
+#  name = "7元20G不限时"
+#  url = "https://快车.com?c=REZUOC"
+#  weight = 20
