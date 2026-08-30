@@ -1,14 +1,14 @@
 ---
-title: "Dribbble"
-description: "Dribbble 是全球知名的设计师作品分享与设计灵感平台，设计师可以在这里展示作品、发现灵感并关注其他创作者。"
+title: "behance"
+description: "behance 是全球知名的设计师作品分享与设计灵感平台，设计师可以在这里展示作品、发现灵感并关注其他创作者。"
 keywords:
-  - Dribbble
-  - Dribbble官网
+  - behance
+  - behance官网
   - 设计师作品
   - UI设计
   - UX设计
   - 设计灵感
-website: "https://dribbble.com/"
+website: "https://behance.com/"
 logo: "/images/logos/dribbble.png"
 ---
 
