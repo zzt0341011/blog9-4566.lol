@@ -1,6 +1,6 @@
 baseURL = "https://4566.lol/"
 languageCode = "zh-CN"
-title = "网址导航"
+title = "4566导航"
 theme = "hugo-webstack"
 
 # true：允许大写字母 URL 路径
