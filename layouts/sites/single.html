@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang }}">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>{{ .Title }} - {{ .Site.Title }}</title>
+
+<meta name="description" content="{{ .Params.description | default .Site.Params.description }}">
+
+{{ with .Params.keywords }}
+<meta name="keywords" content="{{ delimit . ", " }}">
+{{ else }}
+<meta name="keywords" content="{{ .Site.Params.keywords }}">
+{{ end }}
+
+<link rel="canonical" href="{{ .Permalink }}">
+
+<meta property="og:type" content="article">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:title" content="{{ .Title }} - {{ .Site.Title }}">
+<meta property="og:description" content="{{ .Params.description | default .Site.Params.description }}">
+{{ with .Params.logo }}
+<meta property="og:image" content="{{ . | absURL }}">
+{{ end }}
+<meta property="og:site_name" content="{{ .Site.Title }}">
+
+<link rel="shortcut icon" href="{{ "images/favicon.png" | absURL }}">
+
+<link rel="stylesheet" href="{{ "css/font-awesome.min.css" | absURL }}">
+<link rel="stylesheet" href="{{ "css/bootstrap.css" | absURL }}">
+<link rel="stylesheet" href="{{ "css/nav.css" | absURL }}">
+
+<style>
+.site-detail {
+    max-width: 1000px;
+    margin: 40px auto 100px;
+    padding: 0 20px;
+}
+
+.site-detail-header {
+    background: #fff;
+    padding: 35px;
+    border-radius: 8px;
+    margin-bottom: 25px;
+    box-shadow: 0 2px 15px rgba(0,0,0,.06);
+}
+
+.site-detail-logo {
+    width: 72px;
+    height: 72px;
+    object-fit: contain;
+    margin-right: 20px;
+    vertical-align: middle;
+}
+
+.site-detail-title {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.site-detail-title h1 {
+    margin: 0 0 8px;
+    font-size: 30px;
+}
+
+.site-detail-description {
+    color: #777;
+    font-size: 15px;
+}
+
+.site-detail-content {
+    background: #fff;
+    padding: 35px;
+    border-radius: 8px;
+    box-shadow: 0 2px 15px rgba(0,0,0,.06);
+    line-height: 1.9;
+}
+
+.site-detail-content h2 {
+    margin-top: 35px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #eee;
+}
+
+.site-detail-content h3 {
+    margin-top: 25px;
+}
+
+.visit-button {
+    display: inline-block;
+    margin-top: 25px;
+    padding: 12px 28px;
+    background: #337ab7;
+    color: #fff !important;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.visit-button:hover {
+    opacity: .9;
+}
+
+.site-breadcrumb {
+    margin-bottom: 20px;
+    color: #888;
+}
+
+.site-breadcrumb a {
+    color: #337ab7;
+}
+</style>
+
+</head>
+
+<body class="page-body white">
+
+<div class="page-container">
+
+    <div class="main-content">
+
+        <nav class="navbar user-info-navbar" role="navigation">
+            <div class="navbar-content">
+
+                <ul class="user-info-menu left-links list-inline list-unstyled">
+
+                    <li>
+                        <a href="{{ "/" | relLangURL }}">
+                            <i class="fa fa-home"></i>
+                            首页
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="{{ "/" | relLangURL }}">
+                            {{ .Site.Title }}
+                        </a>
+                    </li>
+
+                </ul>
+
+            </div>
+        </nav>
+
+        <main class="site-detail">
+
+            <div class="site-breadcrumb">
+                <a href="{{ "/" | relLangURL }}">首页</a>
+                /
+                <span>{{ .Title }}</span>
+            </div>
+
+            <article>
+
+                <header class="site-detail-header">
+
+                    {{ with .Params.logo }}
+                    <img
+                        src="{{ . | relURL }}"
+                        class="site-detail-logo"
+                        alt="{{ $.Title }} Logo"
+                    >
+                    {{ end }}
+
+                    <div class="site-detail-title">
+
+                        <h1>{{ .Title }}</h1>
+
+                        <div class="site-detail-description">
+                            {{ .Params.description }}
+                        </div>
+
+                    </div>
+
+                    {{ with .Params.website }}
+
+                    <div>
+                        <a
+                            href="{{ . }}"
+                            target="_blank"
+                            rel="nofollow noopener noreferrer"
+                            class="visit-button"
+                        >
+                            访问官方网站
+                        </a>
+                    </div>
+
+                    {{ end }}
+
+                </header>
+
+
+                <div class="site-detail-content">
+
+                    {{ .Content }}
+
+                    {{ with .Params.website }}
+
+                    <p>
+                        <a
+                            href="{{ . }}"
+                            target="_blank"
+                            rel="nofollow noopener noreferrer"
+                            class="visit-button"
+                        >
+                            立即访问 {{ $.Title }} 官网
+                        </a>
+                    </p>
+
+                    {{ end }}
+
+                </div>
+
+            </article>
+
+        </main>
+
+
+        <footer class="main-footer sticky footer-type-1">
+
+            <div class="footer-inner">
+
+                <div class="footer-text">
+
+                    Copyright © {{ now.Format "2006" }}
+
+                    <strong>
+                        {{ .Site.Copyright }}
+                    </strong>
+
+                </div>
+
+                <div class="footer-text">
+
+                    {{ .Site.Title }}
+
+                </div>
+
+            </div>
+
+        </footer>
+
+    </div>
+
+</div>
+
+</body>
+</html>

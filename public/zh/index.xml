@@ -2,11 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>网址导航</title>
-    <link>http://4566.lol/zh/</link>
+    <link>http://localhost:1313/zh/</link>
     <description>Recent content on 网址导航</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <copyright>4566.lol</copyright>
-    <atom:link href="http://4566.lol/zh/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/zh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于网站</title>
+      <link>http://localhost:1313/zh/about/</link>
+      <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zh/about/</guid>
+      <description>本网站由 Hugo 驱动，使用 hugo-webstack 主题，通过 Github Pages 构建。&#xA;hugo-webstack 是基于纯静态的网址导航网站webstack.cc 制作的Hugo主题。&#xA;本站模板 https://github.com/oulh/nav&#xA;本站主题 https://github.com/oulh/hugo-webstack&#xA;便捷编辑 logo：已内置api，留空即可自动加载&#xA;description：可以复制网站自带的description内容，电脑浏览器按F12，在&amp;quot;元素&amp;quot;栏按Ctrl+F，搜&amp;quot;desc&amp;quot;，一般第一个就是&#xA;qrcode：可以填写api链接，如：https://api.qrserver.com/v1/create-qr-code/?size=150x150&amp;amp;data=https://netcut.cn/，&#xA;不过加载有点慢，使用本地图片更快。&#xA;FontAwesome图标：https://origin.fontawesome.com/v6/search</description>
+    </item>
+    <item>
+      <title>Dribbble</title>
+      <link>http://localhost:1313/zh/sites/dribbble/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zh/sites/dribbble/</guid>
+      <description>Dribbble Dribbble 是一个面向设计师和创意工作者的作品展示与灵感交流平台。用户可以在这里浏览 UI、UX、网页设计、品牌设计、插画等各种优秀作品。&#xA;Dribbble 是什么？ Dribbble 是全球知名的设计作品展示与设计师交流平台。&#xA;如果你正在寻找网页设计、APP 界面、UI/UX、品牌设计或者视觉设计方面的灵感，Dribbble 是一个值得收藏的网站。&#xA;Dribbble 主要功能 浏览全球设计师优秀作品 获取 UI/UX 设计灵感 搜索网页和移动应用界面 发现设计趋势 关注优秀设计师 分享自己的设计作品 寻找设计相关工作和合作机会 Dribbble 适合哪些人？ Dribbble 特别适合：&#xA;UI 设计师 UX 设计师 网页设计师 平面设计师 插画师 产品经理 前端开发人员 需要寻找设计灵感的创作者 Dribbble 的特点 Dribbble 最大的特点是拥有大量高质量的设计作品。&#xA;与普通图片网站相比，Dribbble 上的内容更加集中于 UI、UX、品牌、网页、APP 和数字产品设计，因此非常适合作为设计灵感和视觉参考来源。&#xA;Dribbble 官网 如果你想访问 Dribbble，可以通过下面的按钮进入官方网站。&#xA;立即访问 Dribbble 官网&#xA;常见问题 Dribbble 是什么？ Dribbble 是一个全球性的设计作品展示和设计师交流平台。&#xA;Dribbble 适合初学者吗？ 适合。初学者可以通过浏览优秀作品学习 UI、UX、网页设计和视觉设计。&#xA;Dribbble 可以做什么？ 可以浏览设计作品、寻找设计灵感、关注设计师、发布作品，也可以寻找设计工作和商业合作机会。</description>
+    </item>
+    <item>
+      <title>子页面二</title>
+      <link>http://localhost:1313/zh/sub2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zh/sub2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>子页面一</title>
+      <link>http://localhost:1313/zh/sub1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zh/sub1/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

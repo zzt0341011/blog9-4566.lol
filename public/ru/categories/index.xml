@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 网址导航</title>
-    <link>http://4566.lol/ru/categories/</link>
+    <link>http://localhost:1313/ru/categories/</link>
     <description>Recent content in Categories on 网址导航</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <copyright>4566.lol</copyright>
-    <atom:link href="http://4566.lol/ru/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ru/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

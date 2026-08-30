@@ -1,4 +1,4 @@
-baseURL = "http://4566.lol/"
+baseURL = "https://4566.lol/"
 languageCode = "zh-CN"
 title = "网址导航"
 theme = "hugo-webstack"
