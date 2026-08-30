@@ -1,3 +1,38 @@
+
+
+
+
+以后你新增网站或修改网站信息，只需要维护：
+
+data/webstack.yml
+
+然后执行：
+
+python scripts/generate-sites.py
+hugo
+
+就会自动：
+
+生成详情页
+自动生成英文/拼音 slug
+自动更新 data/site-slugs.yml
+首页自动链接到详情页
+中文网站自动生成拼音 URL
+
+例如新增：
+
+- title: OpenAI
+  url: https://openai.com/
+  description: 人工智能研究与产品平台
+
+自动得到：
+
+content/sites/openai.md
+
+首页点击：
+
+/sites/openai/
+
 更新博客
 
 git add .
