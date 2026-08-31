@@ -29,7 +29,7 @@
       slug: pikaqiu
       description: 皮卡丘机场，价格适中，特殊时期稳定运行，15元20G，30元50G
     - title: happy猫机场
-      logo:
+      logo: images/logos/happymao.ico
       url: https://1.jnk.ink/5KiTxY
       slug: happymao
       description: 小机场，使用人少，速度快，价格便宜，19.9元200G
