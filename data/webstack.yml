@@ -4,7 +4,7 @@
   icon: fa-star
   links: 
     - title: 魔戒
-      logo:images/logos/mojie.ico
+      logo: images/logos/mojie.ico
       url: https://mojie.co/register?aff=wfVs0vWP
       slug: mojie
       description: 最便宜的套餐1元1G，19.9元130G不限时间，机场运营十年
