@@ -3,14 +3,16 @@
 - taxonomy: 五星机场
   icon: fa-star
   links: 
-    - title: 魔戒
+    - title: 魔戒机场
       logo: images/logos/mojie.ico
       url: https://mojie.co/register?aff=wfVs0vWP
       slug: mojie
       description: 最便宜的套餐1元1G，19.9元130G不限时间，机场运营十年
-    - title: Behance
-      url: https://behance.net/
-      description: Adobe旗下的设计师交流平台，来自世界各地的设计师在这里分享自己的作品。
+    - title: 网际快车机场
+      logo: images/logos/kuaiche.png
+      url: https://1.jnk.ink/ad2RVl
+      slug: kuaiche
+      description: 网际快车是一家运营多年的机场，有纯流量套餐，24元100G
     - title: 二维码演示
       qrcode: images/qrcodes/cli.png
       logo: 
