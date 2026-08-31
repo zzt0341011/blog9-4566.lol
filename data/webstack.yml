@@ -13,41 +13,46 @@
       url: https://1.jnk.ink/ad2RVl
       slug: kuaiche
       description: 网际快车是一家运营多年的机场，有纯流量套餐，24元100G
-    - title: 二维码演示
-      qrcode: images/qrcodes/cli.png
-      logo: 
-      url: https://cli.im/url
-      description: 二维码演示，手机扫一扫，也可以点击
-    - title: UI中国
-      url: https://www.ui.cn/
-      description: 图形交互与界面设计交流、作品展示、学习平台。
-    - title: 站酷
-      url: https://www.zcool.com.cn/
-      description: 中国人气设计师互动平台
-    - title: Pinterest
+    - title: 牛逼机场
+      logo: images/logos/niubi.ico
+      url: https://1.jnk.ink/LYet7x
+      slug: niubi
+      description: 牛逼机场，稳定运营，人数众多，大家认可的机场
+    - title: 飞鸟云机场
+      logo: images/logos/niubi.ico
+      url: https://1.jnk.ink/i7OhaC
+      slug: feiniaoyun
+      description: 飞鸟机场，价格便宜，流量大，10元200G，15元400G
+    - title: 皮卡丘机场
+      logo: images/logos/pikaqiu.ico
+      url: https://1.jnk.ink/d07dCA
+      slug: pikaqiu
+      description: 皮卡丘机场，价格适中，特殊时期稳定运行，15元20G，30元50G
+    - title: happy猫机场
       logo:
-      url: https://www.pinterest.com/
-      description: 全球美图收藏采集站
-    - title: 花瓣
+      url: https://1.jnk.ink/5KiTxY
+      slug: happymao
+      description: 小机场，使用人少，速度快，价格便宜，19.9元200G
+    - title: 农夫山泉机场
       logo: 
-      url: https://huaban.com/
-      description: 收集灵感,保存有用的素材
-    - title: Medium
-      url: https://medium.com/
-      description: 高质量设计文章
-    - title: 优设
-      logo:  
-      url: https://www.uisdc.com/
-      description: 设计师交流学习平台
-    - title: Producthunt
-      url: https://www.producthunt.com/
-      description: 发现新鲜有趣的产品
-    - title: Youtube
-      url: https://www.youtube.com/
-      description: 全球最大的学习分享平台
-    - title: Google
-      url: https://www.google.com/
-      description: 全球最大的UI学习分享平台
+      url: https://1.jnk.ink/i1fXTMYk
+      slug: nongfushanquan
+      description: 农夫山泉机场，月付套餐划算，15元200G
+    - title: 宝贝云机场
+      logo:
+      url: https://1.jnk.ink/xxPwfy
+      slug: baobeiyun
+      description: 宝贝云机场，有纯流量套餐，月付划算，15元1000G
+    - title: 自由猫机场
+      logo: images/logos/ziyoumao.svg
+      url: https://1.jnk.ink/haO8Dr
+      slug: ziyoumao
+      description: 自由猫机场，纯流量套餐，不限时间，65元500G
+    - title: 飞兔云机场
+      logo: images/logos/feitu.ico
+      url: https://1.jnk.ink/bbXkiN
+      slug: feituyun
+      description: 飞兔云机场，大量优质节点，有80多个节点，优质机场
 - taxonomy: 社区咨询
   icon: fa-regular fa-newspaper
   links: 
