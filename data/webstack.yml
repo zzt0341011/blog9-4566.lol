@@ -6,7 +6,7 @@
     - title: 魔戒
       logo:images/logos/mojie.ico
       url: https://mojie.co/register?aff=wfVs0vWP
-      slug: 魔戒
+      slug: mojie
       description: 最便宜的套餐1元1G，19.9元130G不限时间，机场运营十年
     - title: Behance
       url: https://behance.net/
@@ -46,8 +46,6 @@
     - title: Google
       url: https://www.google.com/
       description: 全球最大的UI学习分享平台
-    
-
 - taxonomy: 社区咨询
   icon: fa-regular fa-newspaper
   links: 
@@ -99,21 +97,6 @@
       logo: images/logos/uigreat.png
       url: http://www.uigreat.com/
       description: UI设计师学习交流社区
-    
-
-
-
-      
-
-
-
-
-
-
-
-
-
-     
 - taxonomy: 友情链接
   icon: fa-link
   friend:
