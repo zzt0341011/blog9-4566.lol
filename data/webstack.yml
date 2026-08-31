@@ -39,12 +39,12 @@
       slug: nongfushanquan
       description: 农夫山泉机场，月付套餐划算，15元200G
     - title: 宝贝云机场
-      logo:
+      logo: images/logos/baobeiyun.ico
       url: https://1.jnk.ink/xxPwfy
       slug: baobeiyun
       description: 宝贝云机场，有纯流量套餐，月付划算，15元1000G
     - title: 自由猫机场
-      logo: images/logos/ziyoumao.svg
+      logo: images/logos/ziyoumao.png
       url: https://1.jnk.ink/haO8Dr
       slug: ziyoumao
       description: 自由猫机场，纯流量套餐，不限时间，65元500G
