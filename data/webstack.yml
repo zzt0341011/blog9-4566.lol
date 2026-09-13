@@ -53,6 +53,14 @@
       url: https://1.jnk.ink/bbXkiN
       slug: feituyun
       description: 飞兔云机场，大量优质节点，有80多个节点，优质机场
+- taxonomy: 四星机场
+  icon: fa-star
+  links: 
+    - title: 996机场
+      logo: 
+      url: https://1.jnk.ink/nKXcqQ
+      slug: fscloud
+      description: 价格便宜，每年13元，月流量100G，节点数量也挺多
 - taxonomy: 社区咨询
   icon: fa-regular fa-newspaper
   links: 
