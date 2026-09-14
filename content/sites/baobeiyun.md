@@ -8,7 +8,7 @@ keywords:
   - "宝贝云机场介绍"
   - "宝贝云机场是什么"
 website: "https://1.jnk.ink/xxPwfy"
-logo: ""
+logo: "images/logos/baobeiyun.ico"
 slug: "baobeiyun"
 ---
 

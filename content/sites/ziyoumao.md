@@ -8,7 +8,7 @@ keywords:
   - "自由猫机场介绍"
   - "自由猫机场是什么"
 website: "https://1.jnk.ink/haO8Dr"
-logo: "images/logos/ziyoumao.svg"
+logo: "images/logos/ziyoumao.png"
 slug: "ziyoumao"
 ---
 

@@ -8,7 +8,7 @@ keywords:
   - "happy猫机场介绍"
   - "happy猫机场是什么"
 website: "https://1.jnk.ink/5KiTxY"
-logo: ""
+logo: "images/logos/happymao.ico"
 slug: "happymao"
 ---
 
