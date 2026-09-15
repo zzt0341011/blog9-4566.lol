@@ -6,7 +6,7 @@ keywords:
   - fscloud机场
   - 不限时机场套餐
   - 纯流量机场
-website: "https://1.jnk.ink/5KiTxY"
+website: "https://1.jnk.ink/nKXcqQ"
 logo: "/images/logos/kuaiche.png"
 ---
 
