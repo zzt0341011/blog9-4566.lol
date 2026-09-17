@@ -29,10 +29,10 @@ logo: "/images/logos/mojie.ico"
 - 这样就是更大程度上利用流量，节省费用
 - [点击购买魔戒套餐](https://1.jnk.ink/L4q20S)
 
-![mojie-taocan-1001.jpg](:/7b39b2ffd82944aebeed8c20ef6b17b4)
+![mojie-taocan-1001.jpg](https://4566.lol/images/mojie-taocan-1001.jpg)
 
 
-![mojie-taocan-1002.jpg](:/fbf9c074f7b2421c8f38b383eb251f7d)
+![mojie-taocan-1002.jpg](https://4566.lol/images/mojie-taocan-1002.jpg)
 
 
 
