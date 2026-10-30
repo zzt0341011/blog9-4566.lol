@@ -35,6 +35,9 @@ content/sites/openai.md
 
 更新博客
 
+python scripts/generate-sites.py
+hugo
+
 git add .
 git commit -m "add jichang-4566.lol"
 git push -u origin main
